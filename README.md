@@ -4,7 +4,7 @@ Here I built a API copier / web scaper. I recently bult a news app in kotlin and
 
 This will add to the productivity and the scalibility of my app
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fMAy1xgAjqE)
 
 # Data Analysis Results
 
@@ -18,8 +18,8 @@ python,flask,and pandas
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Chat GPT](https://chat.openai.com/)
+* [W3Schools](https://www.w3schools.com/)
 
 # Future Work
 
